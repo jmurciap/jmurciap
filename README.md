@@ -1,6 +1,8 @@
 # **Juan Diego Murcia Porras**  
 **Mathematician**
 
+[Spanish version](https://github.com/jmurciap/jmurciap/blob/main/README-es.md)
+
 📍 Bogotá, Colombia  
 📧 murciaporrasjd@gmail.com  
 📱 (+57) 316-421-4342  
