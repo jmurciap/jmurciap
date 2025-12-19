@@ -60,7 +60,7 @@ Mathematician with strong academic foundation and applied experience in mathemat
 **Freelancer — Bogotá, Colombia**  
 *October 2025 - Present*  
 [Repository: https://github.com/cristian-pulido/Modelo-Prescriptivo-Mojana](https://github.com/cristian-pulido/Modelo-Prescriptivo-Mojana)  
-- Led the integration and development of a model-based optimization and control module to support decision-making in the Mojana region, combining structured data, machine learning models, and prescriptive analytics techniques.
+- Led the integration and development of a model-based optimization and control module to support decision-making in La Mojana region, combining structured data, machine learning models, and prescriptive analytics techniques.
 - Designed the conceptual and methodological framework for the prescriptive module, defining objective variables, use cases, and data requirements.
 - Developed mechanisms for scenario generation, comparative analysis, and model-driven recommendations, ensuring alignment with official data sources and local contextual needs.
 - Built early prototypes, implemented core functions in Python, and iterated with technical teams to refine models, workflows, and analytical tools.
